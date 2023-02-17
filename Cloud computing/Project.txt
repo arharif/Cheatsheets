@@ -1,0 +1,13 @@
+💥 𝟐 𝐍𝐞𝐰 𝐅𝐫𝐞𝐞 𝐓𝐫𝐚𝐢𝐧𝐢𝐧𝐠 𝐜𝐨𝐮𝐫𝐬𝐞𝐬 & 𝐅𝐫𝐞𝐞 𝐁𝐚𝐝𝐠𝐞𝐬!💥
+Now there are 8 training courses with badge assessments. How to enroll ⬇
+
+I realized that there is not a single page that summarizes how to enroll to different AWS badges, so here you go:
+
+🔸 Architecting (new!): https://bit.ly/architect23
+🔸 AWS for Games (new!): https://go.aws/3l6fYf7
+🔸 Serverless: https://go.aws/3UZpFs0
+🔸 Object Storage: https://go.aws/3wv8cyx
+🔸 Block Storage: https://go.aws/3wv8cyx
+🔸 File Storage: https://go.aws/3wv8cyx
+🔸 Storage Data Migration: https://go.aws/3wv8cyx
+🔸 Data Protection & Disaster Recovery: https://go.aws/3wv8cyx
